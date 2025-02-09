@@ -49,4 +49,5 @@
 ---
 
 ## 🌍 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadjon-ubaydullayev-ba1589233/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahadjon-ubaydullayev-ba1589233/) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ubaydullayev_ahadjon) 📧 [ahadjon.ubaydullayev16@gmail.com](mailto:ahadjon.ubaydullayev16@gmail.com)  
