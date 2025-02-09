@@ -37,17 +37,18 @@
 ## 💼 Experience Highlights  
 
 ### **Software Developer @ Turing**  
+🗺️ *US | Remote* &nbsp;&nbsp; 📅 *2022 – 2024*  
 - Developed and trained AI models, optimizing accuracy and efficiency.  
 - Debugged, optimized, and enhanced AI functionality across multiple languages.  
 - Worked in large-scale teams, aligning project requirements with client needs.  
 - Conducted **code reviews**, improving software quality and performance.  
 
 ### **Software Developer @ Xsoft IT Solutions**  
+🗺️ *Fergana* &nbsp;&nbsp; 📅 *2021 – 2022*  
 - Led full-cycle product development, ensuring smooth user experiences.  
 - Built scalable platforms using **Python, Django, JavaScript, and React**.  
 - Integrated **third-party APIs**, ensuring seamless data flow.  
-- Focused on clean code practices, debugging, and optimizing system performance.  
-
+- Focused on clean code practices, debugging, and optimizing system performance.   
 ---
 
 ## 🎓 Education  
