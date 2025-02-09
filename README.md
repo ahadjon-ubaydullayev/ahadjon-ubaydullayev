@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Ahadjon Ubaydullayev!  
 ### 🚀 Python Backend Developer  
 
-I'm passionate about building scalable backend systems, integrating AI models, and optimizing performance.  
+🚀 I specialize in building high-performance backend systems, integrating AI-driven solutions, and optimizing workflows for efficiency.
+
+💡 I enjoy solving complex backend challenges, developing AI-powered applications, and ensuring systems run seamlessly at scale.
 
 ---
 
